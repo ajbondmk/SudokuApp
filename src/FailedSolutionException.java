@@ -1,0 +1,1 @@
+public class FailedSolutionException extends Exception { }
